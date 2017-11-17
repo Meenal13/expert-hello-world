@@ -1,2 +1,1 @@
-# expert-hello-world
-An Expert Rating Sample Repository
+Hi...This is my first repository. I am happy to make one.
